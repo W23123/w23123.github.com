@@ -1,0 +1,10 @@
+_site
+.project
+.idea/
+.jekyll-metadata
+*.iml
+*.*~
+build/
+.DS_Store
+**/.DS_Store
+static/
