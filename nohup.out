@@ -1,0 +1,90 @@
+Configuration file: /root/w23123.github.com/_config.yml
+            Source: /root/w23123.github.com
+       Destination: /root/w23123.github.com/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.421 seconds.
+ Auto-regeneration: enabled for '/root/w23123.github.com'
+jekyll 3.7.2 | Error:  Address already in use - bind(2) for 127.0.0.1:4000
+Configuration file: /root/w23123.github.com/_config.yml
+            Source: /root/w23123.github.com
+       Destination: /root/w23123.github.com/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.351 seconds.
+ Auto-regeneration: enabled for '/root/w23123.github.com'
+    Server address: http://127.0.0.1:4000/flexible-jekyll/
+  Server running... press ctrl-c to stop.
+[2018-02-08 19:16:20] ERROR `/' not found.
+[2018-02-08 19:16:24] ERROR `/' not found.
+[2018-02-08 19:16:50] ERROR `/ip.asp' not found.
+[2018-02-08 19:18:16] ERROR `/flexible-jekyll' not found.
+[2018-02-08 19:18:22] ERROR `/flexible-jekyll' not found.
+Configuration file: /root/w23123.github.com/_config.yml
+            Source: /root/w23123.github.com
+       Destination: /root/w23123.github.com/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.363 seconds.
+ Auto-regeneration: enabled for '/root/w23123.github.com'
+    Server address: http://127.0.0.1:4000
+  Server running... press ctrl-c to stop.
+[2018-02-08 19:23:15] ERROR `/assets/img/favicon/favicon.ico' not found.
+[2018-02-08 19:57:23] ERROR `/cache/global/img/gs.gif' not found.
+[2018-02-08 19:57:42] ERROR `/.git/index' not found.
+[2018-02-08 21:38:50] ERROR `/wls-wsat/CoordinatorPortType' not found.
+[2018-02-08 21:42:55] ERROR `/assets/img/favicon/favicon.ico' not found.
+[2018-02-08 21:42:56] ERROR `/assets/img/favicon/apple-touch-icon-114x114.png' not found.
+[2018-02-08 21:43:30] ERROR `/assets/img/favicon/favicon.ico' not found.
+[2018-02-08 21:43:30] ERROR `/assets/img/favicon/apple-touch-icon-114x114.png' not found.
+[2018-02-08 21:52:44] ERROR `/master-status' not found.
+[2018-02-08 22:08:14] ERROR `/phpmyadmin/' not found.
+[2018-02-08 22:08:14] ERROR `/phpmyadmin/' not found.
+[2018-02-08 22:08:14] ERROR `/phpmyadmin/' not found.
+[2018-02-08 22:08:14] ERROR `/phpmyadmin/' not found.
+[2018-02-08 22:08:14] ERROR `/phpmyadmin/' not found.
+[2018-02-08 22:08:14] ERROR `/phpmyadmin/' not found.
+[2018-02-08 22:08:14] ERROR `/phpmyadmin/' not found.
+[2018-02-08 22:08:14] ERROR `/phpmyadmin/' not found.
+[2018-02-08 22:08:15] ERROR `/phpmyadmin/' not found.
+[2018-02-08 22:08:15] ERROR `/phpmyadmin/' not found.
+[2018-02-08 22:08:15] ERROR `/phpmyadmin/' not found.
+[2018-02-08 22:08:15] ERROR `/phpmyadmin/' not found.
+[2018-02-08 22:08:15] ERROR `/phpmyadmin/' not found.
+[2018-02-08 22:08:15] ERROR `/phpmyadmin/' not found.
+[2018-02-08 22:08:15] ERROR `/phpmyadmin/' not found.
+[2018-02-08 22:08:15] ERROR `/phpmyadmin/' not found.
+[2018-02-08 22:08:15] ERROR `/phpmyadmin/' not found.
+[2018-02-08 22:08:15] ERROR `/phpmyadmin/' not found.
+[2018-02-08 22:08:15] ERROR `/phpmyadmin/' not found.
+[2018-02-08 22:08:15] ERROR `/phpmyadmin/' not found.
+[2018-02-08 22:26:53] ERROR `/rs-status' not found.
+      Regenerating: 11 file(s) changed at 2018-02-08 22:44:35
+                    _layouts/main.html
+                    _layouts/post.html
+                    tags.html
+                    _posts/2018-02-08-mysql-command-one.markdown
+                    assets/img/dongbin.jpeg
+                    _posts/2017-04-06-how-i-rest-from-work.markdown
+                    _posts/2017-04-06-welcome-to-jekyll.markdown
+                    _posts/2017-09-10-conference-on-javascript.markdown
+                    _posts/2017-09-12-10-tips-to-improve-your-workflow.markdown
+                    _posts/2017-09-12-how-to-start-programming.markdown
+                    _posts/2017-09-12-the-best-organizer-software.markdown
+                    ...done in 0.060608454 seconds.
+
+[2018-02-08 22:44:56] ERROR `/assets/img/favicon/favicon.ico' not found.
+[2018-02-08 22:47:57] ERROR `/assets/img/favicon/favicon.ico' not found.
+[2018-02-08 23:07:34] ERROR `/assets/img/favicon/favicon.ico' not found.
+[2018-02-08 23:08:40] ERROR `/assets/img/favicon/favicon.ico' not found.
+[2018-02-08 23:08:54] ERROR `/assets/img/favicon/favicon.ico' not found.
+[2018-02-08 23:12:39] ERROR `/assets/img/favicon/favicon.ico' not found.
+      Regenerating: 1 file(s) changed at 2018-02-08 23:13:39
+                    tencent17418230058942771382.txt
+                    ...done in 0.057779747 seconds.
+
+      Regenerating: 1 file(s) changed at 2018-02-08 23:13:54
+                    tencent17418230058942771382.txt
+                    ...done in 0.056019755 seconds.
+
+[2018-02-08 23:17:11] ERROR `/assets/img/favicon/favicon.ico' not found.
