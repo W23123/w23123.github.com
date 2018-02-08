@@ -88,3 +88,12 @@ Configuration file: /root/w23123.github.com/_config.yml
                     ...done in 0.056019755 seconds.
 
 [2018-02-08 23:17:11] ERROR `/assets/img/favicon/favicon.ico' not found.
+      Regenerating: 2 file(s) changed at 2018-02-08 23:19:18
+                    _includes/head.html
+                    assets/img/dongbin.ico
+                    ...done in 0.056546842 seconds.
+
+      Regenerating: 1 file(s) changed at 2018-02-08 23:29:01
+                    .gitignore
+                    ...done in 0.056522468 seconds.
+
