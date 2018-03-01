@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Linux 正则
+title: 正则规则
 date: 2018-02-09 13:32:20 +0300
-description: 正则 符号 表示的含义
-img: mac.jpg # Add image post (optional)
-tags: [Linux]
+description: 正则的语法，符号表示的意义
+tags: [正则]
 ---
 ### Linux 正则
 

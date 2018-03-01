@@ -2,7 +2,7 @@
 layout: post
 title: 数据库事务
 date: 2018-02-25 16:49:20 +0300
-description: 数据库事务的基本概念
+description: 数据库事务的基本概念，基本特性
 img: transaction.jpeg
 tags: [事务]
 ---
