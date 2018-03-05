@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Mysql 常用命令(1)
+title: Mysql 常用命令[1]
 date: 2018-02-08 13:32:20 +0300
 description: 主要列举了Mysql的连接，database的创建，数据库备份以及还原，table操作
 img: i-rest.jpg # Add image post (optional)
 tags: [Mysql]
 ---
-### Mysql Command
 
 - [数据库连接](#数据库连接)
 - [数据库备份及还原](#数据库备份及还原)
