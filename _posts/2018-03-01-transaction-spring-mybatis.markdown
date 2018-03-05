@@ -14,7 +14,7 @@ tags: [事务]
 - [基于注解的声明式事务管理配置](#基于注解的声明式事务管理配置)
 - [spring事务特性](#spring事务特性)
 - [spring事务回滚规则](#spring事务回滚规则)
-- [Transactional注解](#Transactional注解)
+- [transactional注解](#transactional注解)
 
 ---
 
@@ -169,7 +169,7 @@ public interface PlatformTransactionManager {
 
 ---
 
-#### Transactional注解
+#### transactional注解
 
 @Transactional属性
 
