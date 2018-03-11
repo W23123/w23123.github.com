@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Java中锁的分类[1]
+title: Docker学习[1]
 date: 2018-03-11 00:00:20 +0300
 description: 开始学习docker 主要记录 docker pull 查看 删除等等命令
 tags: [Docker]
@@ -16,7 +16,8 @@ tags: [Docker]
 ---
 
 #### 前言
-最近在学习docker，想记录一下自己的学习进度，以便来督促自己。现在容器技术已经应用很广泛了，感觉和虚拟机有点相似，最大的区别就是docker容器不需要运行一个臃肿的客户机操作系统。
+最近在学习docker，想记录一下自己的学习进度，以便来督促自己。现在容器技术已经应用很广泛了，感觉和虚拟机有点相似，
+最大的区别就是docker容器不需要运行一个臃肿的客户机操作系统。
 
 ---
 #### 获取镜像
@@ -35,6 +36,7 @@ tag:镜像的标签
 #### 查看镜像
 
 docker images
+
 ```
 # dongbin @ dongbindeMacBook-Pro in ~ [1:26:57]
 $ docker images
@@ -43,7 +45,10 @@ test                          0.2                 174e81dac9f8        28 minutes
 test                          0.1                 ffcb2a6a53fb        31 minutes ago      109MB
 nginx                         latest              e548f1a579cf        2 weeks ago         109MB
 hub.c.163.com/library/mysql   5.7.18              9e64176cd8a2        10 months ago       407MB
+
 ```
+
+
 
 |字段|描述|
 |-|-|
@@ -80,7 +85,7 @@ docker inspect 174e81dac9f8 列出的是所有信息
 
 ```
  dongbin @ dongbindeMacBook-Pro in ~ [2:05:27]
-$ docker inspect -f '{{.Os}}' 174e81dac9f8
+$ docker inspect -f 参数 174e81dac9f8
 linux
 ```
 
@@ -95,13 +100,16 @@ docker search TEAM。主要参数，-s,--stars=X 评价星级，默认为0
 # dongbin @ dongbindeMacBook-Pro in ~ [2:12:28] C:1
 $ docker search -s 3 mysql
 Flag --stars has been deprecated, use --filter=stars=3 instead
-NAME                                                   DESCRIPTION                                     STARS               OFFICIAL            AUTOMATED
-mysql                                                  MySQL is a widely used, open-source relati...   5757                [OK]
-mariadb                                                MariaDB is a community-developed fork of M...   1824                [OK]
-mysql/mysql-server                                     Optimized MySQL Server Docker images. Crea...   397                                     [OK]
+NAME                                                   DESCRIPTION                                     STARS
+mysql                                                  MySQL is a widely used, open-source relati...   5757
+mariadb                                                MariaDB is a community-developed fork of M...   1824
+mysql/mysql-server                                     Optimized MySQL Server Docker images. Crea...   397
+
 ```
 
+
 ---
+
 
 #### 删除镜像
 
