@@ -116,7 +116,7 @@ mysql/mysql-server                                     Optimized MySQL Server Do
 docker rmi + 镜像ID或标签
 
 
-先写到着了，累了
+先写到这了，累了
 
 
 
