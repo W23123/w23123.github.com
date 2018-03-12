@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Java中锁的分类[1]
+title: Java中锁的分类
 date: 2018-03-05 00:00:20 +0300
 description: 介绍了公平锁、自旋锁、可重入锁、悲观锁、锁消除等等
-tags: [Lock,JAVA]
+tags: [Lock,Java]
 ---
 
 - [前言](#前言)
