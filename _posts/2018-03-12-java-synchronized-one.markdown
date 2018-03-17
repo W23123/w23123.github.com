@@ -3,7 +3,7 @@ layout: post
 title: synchronized 关键字[转]
 date: 2018-03-12 00:00:20 +0300
 description: 转载从wiki里的写的不错的文章
-tags: [synchronized,Java,Lock]
+tags: [Java,Lock]
 ---
 
 [转载来源](http://wiki.jikexueyuan.com/project/java-concurrency/synchronized.html)
