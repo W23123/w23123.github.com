@@ -55,3 +55,33 @@ public boolean Find ( int target, int[][] array){
             return false;
         }
 ```
+这种算法也不是最好的，因为已经给了排序的。在一个排好序的数组，查找一个值，理应用二分法最好。
+
+实现如下
+
+```java
+public boolean Find(int target, int [][] array) {
+        int i = 0;
+        int m = -1;
+        while (i < array.length) {
+            int k = m == -1 ? array[i].length : m, j = 0;
+            while (j < k) {
+                int mid = (j + k - 1) / 2;
+                if (array[i][mid] > target) {
+                    k = mid;
+                } else if (array[i][mid] < target) {
+                    j = mid + 1;
+                } else {
+                    return true;
+                }
+            }
+            m = k;
+            if (m == 0) {
+                return false;
+            }
+            i++;
+        }
+        return false;
+    }
+```
+基本上久实现到这了，如果以后还有不错的实现，会更新的
