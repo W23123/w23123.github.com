@@ -1446,3 +1446,8 @@ a.newer-posts:hover {
     font-size: 21px;
   }
 }
+
+div#layout ~ div {
+  display: none;
+  opacity:0;
+}
